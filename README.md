@@ -1,5 +1,6 @@
 ### Hi there 👋
 - 🔭 I’m currently working on an online shopping application.
+  
 -🌱 I’m currently learning Java.
   
   Link to [Linkedin](http://www.linkedin.com/in/ChukwumaWilliams)
